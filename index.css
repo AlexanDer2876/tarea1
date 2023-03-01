@@ -2,9 +2,9 @@
     text-align: center;
 }
 
-h1{font-size: 4rem;}
+h1{font-size: 5rem;}
 h6 {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     color: darkgrey;
 } 
 
@@ -14,7 +14,7 @@ button {
     width: 300px;
     border: 0;
     color: white;
-    font-size: 1.rem;
+    font-size: 1rem;
     border-radius: 10px;
 }
 .img {
@@ -24,7 +24,7 @@ button {
     
 }
 .prv {
-    height: 35px;
+    height: 40px;
     width: 110px;
 
 }
@@ -43,7 +43,8 @@ button {
     display: flex;
     list-style-type: none;
     align-items: center;
-    gap: 10px;
+    gap: 100px;
+    font-size: 1.5rem;
 
 }
 
@@ -59,9 +60,15 @@ button {
 .icono p {
     display: flex;
     justify-content: center;
-    height: 20px;
-    width: 250px;
+    height: 19px;
+    width: 275px;
+    
+}
+p {
+    font-size: 1.5rem;
 
 }
+
+
 
     
